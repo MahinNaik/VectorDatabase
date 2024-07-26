@@ -6,8 +6,7 @@ pip install -r requirements.txt
 deactivate
 
 #token
-export HF_TOKEN=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
-export HF_TOKEN=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
+
 
 #runprogram
 python ./01_text_to_embeddings.py              
